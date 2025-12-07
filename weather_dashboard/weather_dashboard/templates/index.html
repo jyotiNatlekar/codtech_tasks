@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Weather Dashboard</h1>
+        <form id="searchForm" method="POST" action="{{ url_for('index') }}">
+            <input type="text" name="city" id="cityInput" placeholder="Enter city name" required>
+            <button type="submit">Search</button>
+            <button type="button" id="ajaxBtn">Search (AJAX)</button>
+        </form>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            <ul class="flashes">
+              {% for category, msg in messages %}
+                <li class="{{ category }}">{{ msg }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+
+        {% if error %}
+            <p class="error">Error: {{ error }}</p>
+        {% endif %}
+
+        {% if weather %}
+        <div class="weather-box">
+            <h2>{{ weather.city }}</h2>
+            <img src="https://openweathermap.org/img/wn/{{ weather.icon }}@2x.png" alt="icon">
+            <p><strong>Temperature:</strong> {{ weather.temp }} °C</p>
+            <p><strong>Condition:</strong> {{ weather.description }}</p>
+            <p><strong>Humidity:</strong> {{ weather.humidity }}%</p>
+            <p><strong>Wind:</strong> {{ weather.wind }} m/s</p>
+        </div>
+        {% endif %}
+
+        <p><a href="{{ url_for('history') }}">View search history</a></p>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
