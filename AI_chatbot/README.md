@@ -77,3 +77,6 @@ This project helped me understand how chatbots are used in customer support syst
 
 The AI Chatbot project demonstrates the practical use of Python and AI concepts to build an intelligent conversational system. It is simple, beginner-friendly, and useful for real-world automation. This project strengthened my understanding of AI, NLP, and full project development from scratch.
 
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d9a3d5aa-37ad-4a51-9865-bf96c263a879)
