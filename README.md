@@ -60,6 +60,9 @@ Model predicts whether a message is SPAM or NOT SPAM
 Applications 
 
 Email Spam Detection
+
 SMS Filtering
+
 Fraud and Phishing Detection
+
 Text Classification Tasks
