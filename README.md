@@ -66,3 +66,11 @@ SMS Filtering
 Fraud and Phishing Detection
 
 Text Classification Tasks
+
+##OUTPUT
+
+<img width="1385" height="407" alt="Image" src="https://github.com/user-attachments/assets/6f320902-a3a5-4617-a9fc-7f37ae95a9e0" />
+<img width="880" height="773" alt="Image" src="https://github.com/user-attachments/assets/c4af960f-2e86-4233-a815-52232e2a0cf8" />
+<img width="889" height="707" alt="Image" src="https://github.com/user-attachments/assets/202a9cb8-9c55-4522-b425-40e5036a3579" />
+<img width="891" height="853" alt="Image" src="https://github.com/user-attachments/assets/b88d43cd-9a38-4a56-ac27-09656f6afa11" />
+<img width="883" height="849" alt="Image" src="https://github.com/user-attachments/assets/9756476c-fb8b-43a8-acca-96747911040e" />
