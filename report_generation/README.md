@@ -33,3 +33,9 @@ Another important learning outcome from this task was understanding the value of
 In conclusion, the Automated Report Generation task was a very useful learning experience. It helped me understand data analysis, visualization, and report automation in a simple and practical way. This project improved my confidence in Python programming and gave me hands-on experience in building real-world automation solutions. Overall, the task was successfully completed and helped me gain valuable skills that will be useful in future projects and professional work.
 
 ##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e628cf2b-228f-48ee-a4d2-2d904420f451)
+![Image](https://github.com/user-attachments/assets/a686a236-483d-4a23-8238-9bc41d3cadb0)
+![Image](https://github.com/user-attachments/assets/1b202ae4-3ae4-44f7-93e8-6c05a5d1639f)
+![Image](https://github.com/user-attachments/assets/15e9e886-9d8f-4773-8f42-85b732ad2db8)
+![Image](https://github.com/user-attachments/assets/1eb6faf2-3eb6-4f7d-a189-b2a6f353cb95)
