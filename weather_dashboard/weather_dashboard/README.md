@@ -38,8 +38,8 @@ In conclusion, the Weather Dashboard task was a very valuable learning experienc
 
 ##output
 
-![Image](https://github.com/user-attachments/assets/17218986-92d5-4925-9e9a-a6325231d64d)
-![Image](https://github.com/user-attachments/assets/5a1c078f-9f5f-4bac-b192-e4f97b560a61)
-![Image](https://github.com/user-attachments/assets/911c78d3-1e22-4319-85d7-5341e1022cff)
-![Image](https://github.com/user-attachments/assets/5e53207c-bf18-4047-a0d8-fae82d1e4ac9)
-![Image](https://github.com/user-attachments/assets/f196458c-e2cd-44b1-b952-7d3515725385)
+![Image](https://github.com/user-attachments/assets/b4b78a78-1d0a-4bb5-aca0-9f78c90c42fa)
+![Image](https://github.com/user-attachments/assets/cfe2c4fb-48c9-4e48-82f6-e5857e91dc7a)
+![Image](https://github.com/user-attachments/assets/a9532600-5c05-4f4c-87c0-0b5cd5fefc10)
+![Image](https://github.com/user-attachments/assets/a47776d2-07a1-47c7-8f84-603d4eca7099)
+![Image](https://github.com/user-attachments/assets/f0458c95-61b6-4e64-aa2b-c2bbabf04eed)
