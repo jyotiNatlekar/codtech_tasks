@@ -35,3 +35,11 @@ In conclusion, the Weather Dashboard task was a very valuable learning experienc
 ## Notes
 - This project uses a local SQLite file `weather.db` created automatically.
 - For production, do NOT store API keys in source code; use environment variables or a secrets manager.
+
+##output
+
+![Image](https://github.com/user-attachments/assets/17218986-92d5-4925-9e9a-a6325231d64d)
+![Image](https://github.com/user-attachments/assets/5a1c078f-9f5f-4bac-b192-e4f97b560a61)
+![Image](https://github.com/user-attachments/assets/911c78d3-1e22-4319-85d7-5341e1022cff)
+![Image](https://github.com/user-attachments/assets/5e53207c-bf18-4047-a0d8-fae82d1e4ac9)
+![Image](https://github.com/user-attachments/assets/f196458c-e2cd-44b1-b952-7d3515725385)
