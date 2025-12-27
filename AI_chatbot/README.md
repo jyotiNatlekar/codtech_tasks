@@ -29,7 +29,7 @@ The chatbot is designed to simulate human-like conversation. It takes user input
 
 ```bash
 pip install flask nltk scikit-learn
-
+```
 
 ## Project Workflow (Simple Steps)
 
